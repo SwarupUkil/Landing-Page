@@ -160,3 +160,9 @@ body {
     border-radius: 8px;
     border: 1px solid #F9FAF8;
 }
+
+.header.footer {
+    display: flex;
+    justify-content: center;
+    font-weight: 100;
+}
