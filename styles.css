@@ -104,3 +104,22 @@ body {
     font-size: 18px;
     text-align: center;
 }
+
+.quote-block {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    padding: 50px 100px;
+}
+
+.quote {
+    font-size: 36px;
+    color: #83868a;
+    font-weight: 100;
+    font-style: italic;
+}
+
+.quote-speaker {
+    align-self: end;
+    font-weight: bold;
+}
