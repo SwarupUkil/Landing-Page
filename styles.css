@@ -32,6 +32,17 @@ body {
 .header-left {
     color: #F9FAF8;
     font-size: 24px;
+    display: flex;
+    align-items: start;
+}
+
+.header-left img {
+    max-width: 100%;
+    height: auto;
+    margin-top: -10px;
+    margin-right: 5px;
+    padding: 0;
+    /* border:yellow solid 1px; */
 }
 
 .header-right {
